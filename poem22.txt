@@ -1,7 +1,6 @@
 this
 is
-text1.txt
+text2.txt
 
 2nd
-
 
